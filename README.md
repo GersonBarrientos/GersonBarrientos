@@ -1,51 +1,31 @@
-<!--
-SISTEMA DE DISEÑO (referencia, no se muestra)
+<!-- SISTEMA DE DISEÑO Oscuro : fondo #0B0F14 · superficie #111821 · borde #1F2933 · texto #E6EDF3 · apagado #8B98A5 Claro : fondo #FFFFFF · superficie #F1F5F9 · borde #D0D7DE · texto #0B0F14 · apagado #57606A Acentos: teal #2DD4BF (#0D9488 en claro) + índigo #818CF8 (#4F46E5 en claro) Tipos : Inter 800 para títulos · JetBrains Mono para detalles (dentro de los SVG) --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"> <img alt="TU NOMBRE · Tu rol" src="./assets/banner-light.svg" width="100%"> </picture> <br>
 
-Paleta oscura : fondo #0B0F14 · superficie #111821 · borde #1F2933 · texto #E6EDF3 · apagado #8B98A5 · acento #2DD4BF
-Paleta clara  : fondo #FFFFFF · superficie #F6F8FA · borde #D0D7DE · texto #0B0F14 · apagado #57606A · acento #0D9488
-Tipografía    : títulos Inter 700 · detalles JetBrains Mono 400 (solo dentro de las imágenes SVG/PNG)
-Regla         : 1 solo acento, máximo 3 niveles de jerarquía, nada de badges decorativos
--->
+Portafolio ↗   ·   LinkedIn ↗   ·   Email ↗
 
-<div align="center">
+<img src="./assets/divider.svg" width="100%" alt=""> </div>
+whoami
+bash
+$ whoami
+tu-nombre — Tu rol, Tu país
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="TU NOMBRE · Tu rol" src="./assets/banner-light.svg" width="100%">
-</picture>
+$ cat ahora.txt
+construyendo  →  tu proyecto principal en una frase
+aprendiendo   →  un solo tema
+abierto a     →  empleo · freelance · colaboraciones
 
-**TU NOMBRE** · Tu rol en una línea · País
+$ git log --oneline -1
+a1b2c3d  una frase que defina cómo trabajas
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+Proyectos
+<table> <tr> <td width="33%" valign="top"> <h3>🚀 Proyecto 1</h3> Qué problema resuelve y qué lograste, en una línea.<br><br> <code>React</code> <code>Node</code><br><br> <a href="https://">Demo ↗</a> · <a href="https://github.com/tu-usuario/proyecto-1">Código ↗</a> </td> <td width="33%" valign="top"> <h3>🧠 Proyecto 2</h3> Qué problema resuelve y qué lograste, en una línea.<br><br> <code>Python</code> <code>TensorFlow</code><br><br> <a href="https://">Demo ↗</a> · <a href="https://github.com/tu-usuario/proyecto-2">Código ↗</a> </td> <td width="33%" valign="top"> <h3>🛠️ Proyecto 3</h3> Qué problema resuelve y qué lograste, en una línea.<br><br> <code>Next.js</code> <code>MongoDB</code><br><br> <a href="https://">Demo ↗</a> · <a href="https://github.com/tu-usuario/proyecto-3">Código ↗</a> </td> </tr> </table> <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+Stack
+	
+Frontend	React Next.js Tailwind
+Backend	Node.js Express
+Datos / IA	Python scikit-learn TensorFlow
+Herramientas	Git Docker Figma
+<!-- ACTIVIDAD (descomenta cuando el workflow esté funcionando, para no mostrar imágenes rotas) <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div> ## Actividad <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"> <img alt="Actividad en GitHub" src="./assets/stats-light.svg" width="100%"> </picture> --> <div align="center"> <img src="./assets/divider.svg" width="100%" alt="">
 
-[Portafolio](https://tu-sitio.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/tu-usuario) &nbsp;·&nbsp; [Email](mailto:tu@correo.com)
+<sub>hecho con ☕ y muchos <code>git commit</code></sub>
 
 </div>
-
----
-
-### Ahora
-
-- **Construyendo:** una frase sobre tu proyecto principal
-- **Aprendiendo:** un solo tema
-- **Abierto a:** empleo / freelance / colaboraciones
-
-### Trabajo seleccionado
-
-| Proyecto | Qué resuelve | Enlaces |
-| :-- | :-- | :-- |
-| **Proyecto 1** | Una línea con el problema y el resultado | [Demo](https://) · [Código](https://github.com/tu-usuario/proyecto-1) |
-| **Proyecto 2** | Una línea con el problema y el resultado | [Demo](https://) · [Código](https://github.com/tu-usuario/proyecto-2) |
-| **Proyecto 3** | Una línea con el problema y el resultado | [Demo](https://) · [Código](https://github.com/tu-usuario/proyecto-3) |
-
-### Stack
-
-**Frontend** React · Next.js · Tailwind  
-**Backend** Node.js · Express  
-**Datos / IA** Python · scikit-learn · TensorFlow  
-**Herramientas** Git · Docker · Figma
-
-### Actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-  <img alt="Estadísticas de GitHub" src="./assets/stats-light.svg" width="100%">
-</picture>
