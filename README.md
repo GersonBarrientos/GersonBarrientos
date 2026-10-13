@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-dark.svg" alt="Gerson Barrientos" width="100%">
+<img src="./assets/banner-animado.svg" alt="Gerson Barrientos" width="100%">
 
 <p>
   <a href="https://github.com/GersonBarrientos">
