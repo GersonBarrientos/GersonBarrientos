@@ -1,31 +1,64 @@
-<!-- SISTEMA DE DISEÑO Oscuro : fondo #0B0F14 · superficie #111821 · borde #1F2933 · texto #E6EDF3 · apagado #8B98A5 Claro : fondo #FFFFFF · superficie #F1F5F9 · borde #D0D7DE · texto #0B0F14 · apagado #57606A Acentos: teal #2DD4BF (#0D9488 en claro) + índigo #818CF8 (#4F46E5 en claro) Tipos : Inter 800 para títulos · JetBrains Mono para detalles (dentro de los SVG) --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"> <img alt="TU NOMBRE · Tu rol" src="./assets/banner-light.svg" width="100%"> </picture> <br>
+<div align="center">
 
-Portafolio ↗   ·   LinkedIn ↗   ·   Email ↗
+<img src="./assets/banner-dark.svg" alt="Gerson Barrientos" width="100%">
 
-<img src="./assets/divider.svg" width="100%" alt=""> </div>
-whoami
-bash
-$ whoami
-tu-nombre — Tu rol, Tu país
+<p>
+  <a href="https://github.com/GersonBarrientos">
+    <img src="https://img.shields.io/badge/GitHub-GersonBarrientos-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gerson-barrientos">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gerson.barrientos@oportunidades.org.sv">
+    <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-$ cat ahora.txt
-construyendo  →  tu proyecto principal en una frase
-aprendiendo   →  un solo tema
-abierto a     →  empleo · freelance · colaboraciones
+<p><strong>Texistepeque, Santa Ana, El Salvador</strong></p>
 
-$ git log --oneline -1
-a1b2c3d  una frase que defina cómo trabajas
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
-Proyectos
-<table> <tr> <td width="33%" valign="top"> <h3>🚀 Proyecto 1</h3> Qué problema resuelve y qué lograste, en una línea.<br><br> <code>React</code> <code>Node</code><br><br> <a href="https://">Demo ↗</a> · <a href="https://github.com/tu-usuario/proyecto-1">Código ↗</a> </td> <td width="33%" valign="top"> <h3>🧠 Proyecto 2</h3> Qué problema resuelve y qué lograste, en una línea.<br><br> <code>Python</code> <code>TensorFlow</code><br><br> <a href="https://">Demo ↗</a> · <a href="https://github.com/tu-usuario/proyecto-2">Código ↗</a> </td> <td width="33%" valign="top"> <h3>🛠️ Proyecto 3</h3> Qué problema resuelve y qué lograste, en una línea.<br><br> <code>Next.js</code> <code>MongoDB</code><br><br> <a href="https://">Demo ↗</a> · <a href="https://github.com/tu-usuario/proyecto-3">Código ↗</a> </td> </tr> </table> <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
-Stack
-	
-Frontend	React Next.js Tailwind
-Backend	Node.js Express
-Datos / IA	Python scikit-learn TensorFlow
-Herramientas	Git Docker Figma
-<!-- ACTIVIDAD (descomenta cuando el workflow esté funcionando, para no mostrar imágenes rotas) <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div> ## Actividad <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"> <img alt="Actividad en GitHub" src="./assets/stats-light.svg" width="100%"> </picture> --> <div align="center"> <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
-<sub>hecho con ☕ y muchos <code>git commit</code></sub>
+---
+
+## Acerca de
+
+Soy **Ingeniero en Desarrollo de Software**, comprometido con el desarrollo de nuevos productos dentro de las áreas de backend y frontend. Poseo sólidos conocimientos en diversas plataformas y lenguajes de programación, con un enfoque constante en incrementar mis habilidades técnicas y alcanzar la superación personal.
+
+Me interesa aportar, mejorar y hacer más eficientes los desarrollos del área. Estoy altamente comprometido con los objetivos, el trabajo con metodologías ágiles y la generación de documentación técnica y de usuario.
+
+## Tecnologías
+
+> Esta sección se completará próximamente con las tecnologías y herramientas principales.
+
+## Proyectos
+
+> Esta sección queda reservada para añadir los proyectos destacados, sus tecnologías, enlaces al código y demostraciones.
+
+## Portafolio
+
+> Próximamente: enlace al portafolio personal y una selección de trabajos destacados.
+
+## Cómo trabajo
+
+```text
+01  Descubrir       Entiendo el objetivo, el usuario y las restricciones.
+02  Diseñar         Propongo una solución simple, medible y mantenible.
+03  Construir       Desarrollo por iteraciones con código limpio y probado.
+04  Mejorar         Escucho feedback, mido resultados y sigo refinando.
+```
+
+## Contacto
+
+Estoy disponible para conectar y conversar sobre oportunidades, proyectos y colaboración profesional.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gerson-barrientos">LinkedIn</a> ·
+<a href="mailto:gerson.barrientos@oportunidades.org.sv">Email</a> ·
+<a href="https://github.com/GersonBarrientos?tab=repositories">Mis repositorios</a>
+
+<br><br>
+
+<sub>Diseñado y construido con intención · <code>git commit</code> tras <code>git commit</code></sub>
 
 </div>
